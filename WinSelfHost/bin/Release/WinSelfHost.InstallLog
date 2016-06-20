@@ -1,0 +1,468 @@
+﻿Instalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Instalando o serviço SisgedSvc...
+Criando a origem de EventLog SisgedSvc no log Application...
+Revertendo o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Restaurando o log de eventos para o estado anterior da origem SisgedSvc.
+Ocorreu uma exceção durante a fase de reversão do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Fonte não encontrada, mas alguns ou todos os logs de evento não puderam ser pesquisados. Logs inacessíveis: Security.
+Ocorreu uma exceção durante a fase de reversão da instalação. Essa exceção será ignorada e a reversão continuará. Mas talvez o computador não reverta totalmente para o estado inicial após a conclusão da reversão.
+Instalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Instalando o serviço SisgedSvc...
+Serviço SisgedSvc foi instalado com êxito.
+Criando a origem de EventLog SisgedSvc no log Application...
+Confirmando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Instalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Instalando o serviço SisgedSvc...
+Criando a origem de EventLog SisgedSvc no log Application...
+Revertendo o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Restaurando o log de eventos para o estado anterior da origem SisgedSvc.
+Desinstalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Removendo a origem do EventLog SisgedSvc.
+Serviço SisgedSvc está sendo removido do sistema...
+Serviço SisgedSvc foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Instalando o serviço SisgedSvc...
+Serviço SisgedSvc foi instalado com êxito.
+Criando a origem de EventLog SisgedSvc no log Application...
+Confirmando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Instalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Instalando o serviço SisgedSvc...
+Criando a origem de EventLog SisgedSvc no log Application...
+Revertendo o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Restaurando o log de eventos para o estado anterior da origem SisgedSvc.
+Desinstalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Removendo a origem do EventLog SisgedSvc.
+Serviço SisgedSvc está sendo removido do sistema...
+Serviço SisgedSvc foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Instalando o serviço SisgedSvc...
+Serviço SisgedSvc foi instalado com êxito.
+Criando a origem de EventLog SisgedSvc no log Application...
+Confirmando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Instalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Instalando o serviço SisgedSvc...
+Criando a origem de EventLog SisgedSvc no log Application...
+Revertendo o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Restaurando o log de eventos para o estado anterior da origem SisgedSvc.
+Desinstalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Removendo a origem do EventLog SisgedSvc.
+Serviço SisgedSvc está sendo removido do sistema...
+Serviço SisgedSvc foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Instalando o serviço SisgedSvc...
+Serviço SisgedSvc foi instalado com êxito.
+Criando a origem de EventLog SisgedSvc no log Application...
+Confirmando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Desinstalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Removendo a origem do EventLog SisgedSvc.
+Serviço SisgedSvc está sendo removido do sistema...
+Serviço SisgedSvc foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Instalando o serviço SisgedSvc...
+Serviço SisgedSvc foi instalado com êxito.
+Criando a origem de EventLog SisgedSvc no log Application...
+Confirmando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Desinstalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Removendo a origem do EventLog SisgedSvc.
+Serviço SisgedSvc está sendo removido do sistema...
+Serviço SisgedSvc foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Instalando o serviço SisgedSvc...
+Serviço SisgedSvc foi instalado com êxito.
+Criando a origem de EventLog SisgedSvc no log Application...
+Confirmando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Desinstalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Removendo a origem do EventLog SisgedSvc.
+Serviço SisgedSvc está sendo removido do sistema...
+Serviço SisgedSvc foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Instalando o serviço SisgedSvc...
+Serviço SisgedSvc foi instalado com êxito.
+Criando a origem de EventLog SisgedSvc no log Application...
+Confirmando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Desinstalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Removendo a origem do EventLog SisgedSvc.
+Serviço SisgedSvc está sendo removido do sistema...
+Serviço SisgedSvc foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Instalando o serviço SisgedSvc...
+Serviço SisgedSvc foi instalado com êxito.
+Criando a origem de EventLog SisgedSvc no log Application...
+Confirmando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Desinstalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Removendo a origem do EventLog SisgedSvc.
+Serviço SisgedSvc está sendo removido do sistema...
+Serviço SisgedSvc foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Instalando o serviço SisgedSvc...
+Serviço SisgedSvc foi instalado com êxito.
+Criando a origem de EventLog SisgedSvc no log Application...
+Confirmando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Desinstalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Removendo a origem do EventLog SisgedSvc.
+Serviço SisgedSvc está sendo removido do sistema...
+Serviço SisgedSvc foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Instalando o serviço SisgedSvc...
+Serviço SisgedSvc foi instalado com êxito.
+Criando a origem de EventLog SisgedSvc no log Application...
+Confirmando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Desinstalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Removendo a origem do EventLog SisgedSvc.
+Serviço SisgedSvc está sendo removido do sistema...
+Serviço SisgedSvc foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Instalando o serviço SisgedSvc...
+Serviço SisgedSvc foi instalado com êxito.
+Criando a origem de EventLog SisgedSvc no log Application...
+Confirmando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Desinstalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Removendo a origem do EventLog SisgedSvc.
+Serviço SisgedSvc está sendo removido do sistema...
+Serviço SisgedSvc foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Instalando o serviço SisgedSvc...
+Serviço SisgedSvc foi instalado com êxito.
+Criando a origem de EventLog SisgedSvc no log Application...
+Confirmando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Desinstalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Removendo a origem do EventLog SisgedSvc.
+Serviço SisgedSvc está sendo removido do sistema...
+Serviço SisgedSvc foi removido com êxito do sistema.
+Tentativa de parar o serviço SisgedSvc.
+Instalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Instalando o serviço SisgedSvc...
+Serviço SisgedSvc foi instalado com êxito.
+Criando a origem de EventLog SisgedSvc no log Application...
+Confirmando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Desinstalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Removendo a origem do EventLog SisgedSvc.
+Serviço SisgedSvc está sendo removido do sistema...
+Serviço SisgedSvc foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Instalando o serviço SisgedSvc...
+Serviço SisgedSvc foi instalado com êxito.
+Criando a origem de EventLog SisgedSvc no log Application...
+Confirmando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Desinstalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Removendo a origem do EventLog SisgedSvc.
+Serviço SisgedSvc está sendo removido do sistema...
+Serviço SisgedSvc foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Instalando o serviço SisgedSvc...
+Serviço SisgedSvc foi instalado com êxito.
+Criando a origem de EventLog SisgedSvc no log Application...
+Confirmando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Desinstalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Removendo a origem do EventLog SisgedSvc.
+Serviço SisgedSvc está sendo removido do sistema...
+Serviço SisgedSvc foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Instalando o serviço SisgedSvc...
+Serviço SisgedSvc foi instalado com êxito.
+Criando a origem de EventLog SisgedSvc no log Application...
+Confirmando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Desinstalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Removendo a origem do EventLog SisgedSvc.
+Serviço SisgedSvc está sendo removido do sistema...
+Serviço SisgedSvc foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Instalando o serviço SisgedSvc...
+Serviço SisgedSvc foi instalado com êxito.
+Criando a origem de EventLog SisgedSvc no log Application...
+Confirmando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Desinstalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Removendo a origem do EventLog SisgedSvc.
+Serviço SisgedSvc está sendo removido do sistema...
+Serviço SisgedSvc foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Instalando o serviço SisgedSvc...
+Serviço SisgedSvc foi instalado com êxito.
+Criando a origem de EventLog SisgedSvc no log Application...
+Confirmando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Desinstalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Removendo a origem do EventLog SisgedSvc.
+Serviço SisgedSvc está sendo removido do sistema...
+Serviço SisgedSvc foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Instalando o serviço SisgedSvc...
+Serviço SisgedSvc foi instalado com êxito.
+Criando a origem de EventLog SisgedSvc no log Application...
+Confirmando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Desinstalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Removendo a origem do EventLog SisgedSvc.
+Serviço SisgedSvc está sendo removido do sistema...
+Serviço SisgedSvc foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
+Instalando o serviço SisgedSvc...
+Serviço SisgedSvc foi instalado com êxito.
+Criando a origem de EventLog SisgedSvc no log Application...
+Confirmando o assembly 'C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.exe
+   logfile = C:\Users\id4ni10\Source\Workspaces\SAI\WinSelfHost\WinSelfHost\bin\Release\WinSelfHost.InstallLog
