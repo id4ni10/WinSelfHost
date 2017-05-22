@@ -1,0 +1,4 @@
+language: csharp
+solution: WinSelfHost.sln
+script:
+  - xbuild /p:Configuration=Release WinSelfHost.sln
