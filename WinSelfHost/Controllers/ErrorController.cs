@@ -9,9 +9,10 @@ namespace WinSelfHost.Controllers
         [HttpGet, HttpPost, HttpPut, HttpDelete, HttpHead, HttpOptions, AcceptVerbs("PATCH")]
         public HttpResponseMessage Handle404()
         {
-            var responseMessage = new HttpResponseMessage(HttpStatusCode.NotFound);
-
-            responseMessage.ReasonPhrase = "O recurso solicitado não foi encontrado!";
+            var responseMessage = new HttpResponseMessage(HttpStatusCode.NotFound)
+            {
+                ReasonPhrase = "O recurso solicitado não foi encontrado!"
+            };
 
             return responseMessage;
         }

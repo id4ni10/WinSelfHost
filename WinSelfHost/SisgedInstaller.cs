@@ -1,5 +1,4 @@
-﻿using System;
-using System.ComponentModel;
+﻿using System.ComponentModel;
 using System.Configuration.Install;
 using System.ServiceProcess;
 
@@ -18,12 +17,12 @@ namespace WinSelfHost
             serviceProcessInstaller.Username = null;
             serviceProcessInstaller.Password = null;
 
-            serviceInstaller.DisplayName = "Sisged Service";
+            serviceInstaller.DisplayName = "SelfMonitorSvc";
             serviceInstaller.StartType = ServiceStartMode.Automatic;
 
-            serviceInstaller.Description = "Caros amigos, a adoção de políticas descentralizadoras afeta positivamente a correta previsão das condições inegavelmente apropriadas.";
+            serviceInstaller.Description = "Serviço de log para registro de logon (Espigão)";
 
-            serviceInstaller.ServiceName = "SisgedSvc";
+            serviceInstaller.ServiceName = "SelfMonitorSvc";
 
             this.Installers.Add(serviceProcessInstaller);
 

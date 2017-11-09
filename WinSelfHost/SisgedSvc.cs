@@ -2,15 +2,13 @@
 using System.ServiceProcess;
 using Microsoft.Owin.Hosting;
 
-using System.Threading.Tasks;
-
 namespace WinSelfHost
 {
     class SisgedSvc : ServiceBase
     {
         public SisgedSvc()
         {
-            this.ServiceName = "SisgedSvc";
+            this.ServiceName = "SelfMonitorSvc";
         }
 
         static void Main()

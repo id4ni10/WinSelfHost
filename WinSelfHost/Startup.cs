@@ -14,7 +14,7 @@ namespace WinSelfHost
             var config = new HttpConfiguration();
 
             ManipularRequisicaoHttp(config);
-
+            
             app.UseWebApi(config);
         }
 
@@ -22,10 +22,10 @@ namespace WinSelfHost
         {
             config.MapHttpAttributeRoutes();
 
-            config.Routes.MapHttpRoute(name: "DefaultApi", routeTemplate: "api/{controller}/{id}", defaults: new { id = RouteParameter.Optional });
+            config.Routes.MapHttpRoute(name: "DefaultApi", routeTemplate: "api/{controller}/{action}/{id}", defaults: new { id = RouteParameter.Optional });
 
             config.Routes.MapHttpRoute(name: "Error404", routeTemplate: "{*url}", defaults: new { controller = "Error", action = "Handle404" });
-
+            
             config.Formatters.Remove(config.Formatters.XmlFormatter);
 
             config.Formatters.JsonFormatter.Indent = true;
