@@ -206,3 +206,347 @@ Parâmetros afetados são:
    logtoconsole = 
    logfile = C:\Users\Danilo\Documents\GitHub\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
    assemblypath = C:\Users\Danilo\Documents\GitHub\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Instalando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Instalando o serviço SelfMonitorSvc...
+Criando a origem de EventLog SelfMonitorSvc no log Application...
+Revertendo o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Restaurando o log de eventos para o estado anterior da origem SelfMonitorSvc.
+Ocorreu uma exceção durante a fase de reversão do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Fonte não encontrada, mas alguns ou todos os logs de evento não puderam ser pesquisados. Logs inacessíveis: Security.
+Ocorreu uma exceção durante a fase de reversão da instalação. Essa exceção será ignorada e a reversão continuará. Mas talvez o computador não reverta totalmente para o estado inicial após a conclusão da reversão.
+Instalando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Instalando o serviço SelfMonitorSvc...
+Serviço SelfMonitorSvc foi instalado com êxito.
+Criando a origem de EventLog SelfMonitorSvc no log Application...
+Confirmando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Desinstalando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Removendo a origem do EventLog SelfMonitorSvc.
+Serviço SelfMonitorSvc está sendo removido do sistema...
+Serviço SelfMonitorSvc foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Instalando o serviço SelfMonitorSvc...
+Serviço SelfMonitorSvc foi instalado com êxito.
+Criando a origem de EventLog SelfMonitorSvc no log Application...
+Confirmando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Desinstalando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Removendo a origem do EventLog SelfMonitorSvc.
+Serviço SelfMonitorSvc está sendo removido do sistema...
+Serviço SelfMonitorSvc foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Instalando o serviço SelfMonitorSvc...
+Serviço SelfMonitorSvc foi instalado com êxito.
+Criando a origem de EventLog SelfMonitorSvc no log Application...
+Confirmando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Desinstalando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Removendo a origem do EventLog SelfMonitorSvc.
+Serviço SelfMonitorSvc está sendo removido do sistema...
+Serviço SelfMonitorSvc foi removido com êxito do sistema.
+Tentativa de parar o serviço SelfMonitorSvc.
+Instalando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Instalando o serviço SelfMonitorSvc...
+Serviço SelfMonitorSvc foi instalado com êxito.
+Criando a origem de EventLog SelfMonitorSvc no log Application...
+Confirmando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Desinstalando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Removendo a origem do EventLog SelfMonitorSvc.
+Serviço SelfMonitorSvc está sendo removido do sistema...
+Serviço SelfMonitorSvc foi removido com êxito do sistema.
+Tentativa de parar o serviço SelfMonitorSvc.
+Instalando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Instalando o serviço SelfMonitorSvc...
+Serviço SelfMonitorSvc foi instalado com êxito.
+Criando a origem de EventLog SelfMonitorSvc no log Application...
+Confirmando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Desinstalando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Removendo a origem do EventLog SelfMonitorSvc.
+Serviço SelfMonitorSvc está sendo removido do sistema...
+Serviço SelfMonitorSvc foi removido com êxito do sistema.
+Tentativa de parar o serviço SelfMonitorSvc.
+Instalando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Instalando o serviço SelfMonitorSvc...
+Serviço SelfMonitorSvc foi instalado com êxito.
+Criando a origem de EventLog SelfMonitorSvc no log Application...
+Confirmando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Desinstalando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Removendo a origem do EventLog SelfMonitorSvc.
+Serviço SelfMonitorSvc está sendo removido do sistema...
+Serviço SelfMonitorSvc foi removido com êxito do sistema.
+Tentativa de parar o serviço SelfMonitorSvc.
+Instalando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Instalando o serviço SelfMonitorSvc...
+Serviço SelfMonitorSvc foi instalado com êxito.
+Criando a origem de EventLog SelfMonitorSvc no log Application...
+Confirmando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Desinstalando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Removendo a origem do EventLog SelfMonitorSvc.
+Serviço SelfMonitorSvc está sendo removido do sistema...
+Serviço SelfMonitorSvc foi removido com êxito do sistema.
+Tentativa de parar o serviço SelfMonitorSvc.
+Instalando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Instalando o serviço SelfMonitorSvc...
+Serviço SelfMonitorSvc foi instalado com êxito.
+Criando a origem de EventLog SelfMonitorSvc no log Application...
+Confirmando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Desinstalando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Removendo a origem do EventLog SelfMonitorSvc.
+Serviço SelfMonitorSvc está sendo removido do sistema...
+Serviço SelfMonitorSvc foi removido com êxito do sistema.
+Tentativa de parar o serviço SelfMonitorSvc.
+Instalando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Instalando o serviço SelfMonitorSvc...
+Serviço SelfMonitorSvc foi instalado com êxito.
+Criando a origem de EventLog SelfMonitorSvc no log Application...
+Confirmando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Desinstalando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Removendo a origem do EventLog SelfMonitorSvc.
+Serviço SelfMonitorSvc está sendo removido do sistema...
+Serviço SelfMonitorSvc foi removido com êxito do sistema.
+Tentativa de parar o serviço SelfMonitorSvc.
+Instalando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Instalando o serviço SelfMonitorSvc...
+Serviço SelfMonitorSvc foi instalado com êxito.
+Criando a origem de EventLog SelfMonitorSvc no log Application...
+Confirmando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Desinstalando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Removendo a origem do EventLog SelfMonitorSvc.
+Serviço SelfMonitorSvc está sendo removido do sistema...
+Serviço SelfMonitorSvc foi removido com êxito do sistema.
+Tentativa de parar o serviço SelfMonitorSvc.
+Instalando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Instalando o serviço SelfMonitorSvc...
+Serviço SelfMonitorSvc foi instalado com êxito.
+Criando a origem de EventLog SelfMonitorSvc no log Application...
+Confirmando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Desinstalando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Removendo a origem do EventLog SelfMonitorSvc.
+Serviço SelfMonitorSvc está sendo removido do sistema...
+Serviço SelfMonitorSvc foi removido com êxito do sistema.
+Tentativa de parar o serviço SelfMonitorSvc.
+Instalando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Instalando o serviço SelfMonitorSvc...
+Serviço SelfMonitorSvc foi instalado com êxito.
+Criando a origem de EventLog SelfMonitorSvc no log Application...
+Confirmando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Desinstalando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Removendo a origem do EventLog SelfMonitorSvc.
+Serviço SelfMonitorSvc está sendo removido do sistema...
+Serviço SelfMonitorSvc foi removido com êxito do sistema.
+Tentativa de parar o serviço SelfMonitorSvc.
+Instalando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Instalando o serviço SelfMonitorSvc...
+Serviço SelfMonitorSvc foi instalado com êxito.
+Criando a origem de EventLog SelfMonitorSvc no log Application...
+Confirmando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Desinstalando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Removendo a origem do EventLog SelfMonitorSvc.
+Serviço SelfMonitorSvc está sendo removido do sistema...
+Serviço SelfMonitorSvc foi removido com êxito do sistema.
+Tentativa de parar o serviço SelfMonitorSvc.
+Instalando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Instalando o serviço SelfMonitorSvc...
+Serviço SelfMonitorSvc foi instalado com êxito.
+Criando a origem de EventLog SelfMonitorSvc no log Application...
+Confirmando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Desinstalando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Removendo a origem do EventLog SelfMonitorSvc.
+Serviço SelfMonitorSvc está sendo removido do sistema...
+Serviço SelfMonitorSvc foi removido com êxito do sistema.
+Tentativa de parar o serviço SelfMonitorSvc.
+Instalando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Instalando o serviço SelfMonitorSvc...
+Serviço SelfMonitorSvc foi instalado com êxito.
+Criando a origem de EventLog SelfMonitorSvc no log Application...
+Confirmando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Desinstalando o assembly 'C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.InstallLog
+   assemblypath = C:\Users\id4ni\source\repos\WinSelfHost\WinSelfHost\bin\Debug\WinSelfHost.exe
+Removendo a origem do EventLog SelfMonitorSvc.
+Serviço SelfMonitorSvc está sendo removido do sistema...
+Serviço SelfMonitorSvc foi removido com êxito do sistema.
+Tentativa de parar o serviço SelfMonitorSvc.

@@ -20,7 +20,7 @@ namespace WinSelfHost
 
         protected override void OnStart(string[] args)
         {
-            App = WebApp.Start<Startup>("http://localhost:1234");
+            App = WebApp.Start<Startup>("http://homologacao.imap.org.br:1234");
 
             base.OnStart(args);
         }
